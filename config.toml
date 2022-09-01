@@ -1,0 +1,17 @@
+baseURL = "https://test-deploy.netlify.app"
+languageCode = "id-ID"
+defaultContentLanguage = "id"
+title = "Test Deploy"
+summaryLength = 10
+paginate = 8
+enableGitInfo = true
+pygmentsCodefences = true 
+pygmentsUseClasses = true
+
+[params]
+  site_name = "Test Deploy"
+  description = "Test Deploy Description"
+  locale = "en-US"
+  type = "website"
+
+
